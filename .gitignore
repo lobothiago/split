@@ -2,3 +2,5 @@ local-data
 ignore
 
 .venv
+
+*.pyc
