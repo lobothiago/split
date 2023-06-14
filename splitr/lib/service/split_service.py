@@ -1,4 +1,4 @@
-from lib.repository.split_repository import SplitRepository
+from splitr.lib.repository.split_repository import SplitRepository
 
 
 class SplitService:
